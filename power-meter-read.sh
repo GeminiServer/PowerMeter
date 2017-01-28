@@ -14,7 +14,7 @@
 clear
 
 echo ""
-echo "Reading Power Meter eHZ - Haushaltsstrom und Waermepumpe"
+echo "Reading Power Meter EMH eHZ - Haushaltsstrom und Waermepumpe"
 echo "Erkan Colak - 05.01.2016"
 echo "v0.2"
 echo ""

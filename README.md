@@ -1,11 +1,8 @@
 # readSML
-read and evaluate SML output received from EMH eHZ
+Read and evaluate serial SML output IR interface from EMH eHZ
 
-Sample output:
-Time: 04.06.2015 16:06:16
-Meter 1.8.0 (from plant):     12849.7106 kWh
-Meter 2.8.0 (to plant):       12849.7106 kWh
-Meter 2.8.0 (to plant):       0 kWh
-Total effective power (+/-):  7.80 W
+Info SML: http://wiki.volkszaehler.org/doku.php/software/sml
 
+USB Reader: http://wiki.volkszaehler.org/hardware/controllers/ir-schreib-lesekopf-usb-ausgang
 
+Setup: Just define your input devices - i.e. "/dev/usb-ir-lesekopf-wp" and start it
